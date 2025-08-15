@@ -1,0 +1,46 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+    margin-top: 50px;
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(14, 27, 17);
+    margin-top: 20px;
+}
+#space {
+    width: 400px;
+    height: 200px;
+    border: 2px solid rgb(85, 164, 90);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: darkgreen;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(85, 164, 90, 0.1);
+}
+#Fight{
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    border: 2px solid black;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: rgb(85, 164, 90);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
